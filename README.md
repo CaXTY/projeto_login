@@ -17,4 +17,4 @@
 </div>
 
 ## Visualizar Projeto
-Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://caxty.github.io/Projeto_Social/)
+Você pode visualizar o projeto através deste link: [Visualizar Projeto](https://caxty.github.io/projeto_login/)
